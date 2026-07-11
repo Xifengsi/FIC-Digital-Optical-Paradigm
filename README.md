@@ -96,13 +96,12 @@ Partner with foundries (e.g., AMF, GlobalFoundries) to tape out the first FIC te
 
 ## 📄 Whitepaper & Citation
 
-The complete theoretical framework, mathematical proofs (Idempotence & Contraction Mapping), and device physics are detailed in our foundational whitepaper.
+The complete theoretical framework, mathematical proofs, and device physics are detailed in our foundational whitepaper.
 
-📥 **[Download the Official Whitepaper (PDF)](./FIC_Paradigm_Whitepaper_v1.0.pdf)**
 
-*To cite this paradigm in your research:*
-> [Your Name/Community]. (2026). *The FIC Paradigm of Digital Optical All-Optical Computing: Axioms, Periodic Table, and Physical Anchors*. GitHub Repository. SHA-256: `[Insert Hash Here]`
-
+*To cite this paradigm and verify its immutability:*
+> [Xifeng Si/FIC Community]. (2026). *The FIC Paradigm of Digital Optical All-Optical Computing: Axioms, Periodic Table, and Physical Anchors*. GitHub Repository. 
+> **SHA-256 Fingerprint**: `868DC57CDE1039DB4266B3115193892BE1F9FC2DE4999B9D52EA3C9AD9910984`
 ---
 
 ## ⚖️ License
